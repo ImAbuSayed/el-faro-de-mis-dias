@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El faro de mis días
+
+This log tracks the cryptographic history and versioning for the song **El faro de mis días** (el-faro-de-mis-dias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:20:39.220070 | `v1` | `262a48d4ff1c17a6331086dd975209e8bc8050dd988ec88d8b45ea4d356fac9a` | `8db60a88fe09254d050083e4175427fdfe01d19ca6c403629c90e9052bc6ddc1` | `2026-06-13_el-faro-de-mis-dias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-faro-de-mis-dias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El faro de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-de-mis-dias/) |
+| **Get License** | [Get a Licensing Quote for El faro de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-de-mis-dias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `262a48d4ff1c17a6331086dd975209e8bc8050dd988ec88d8b45ea4d356fac9a` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
