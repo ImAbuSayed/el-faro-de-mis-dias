@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-faro-de-mis-dias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El faro de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-de-mis-dias/) |
+| **Get License** | [License this song: El faro de mis días](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-de-mis-dias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú eres el faro de mis días mi aventura
+> Brillando en la noche rompiendo la censura
+> Con ese flow de calle y tu vibra tan dura
+> Me tienes adicto buscando tu dulzura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
